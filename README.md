@@ -1,7 +1,7 @@
 # Stereo-Vision-Disparity-and-Depth-Image
 Stereo Vision System
 
-# DESCRIPTION
+# Description
 Structured lighting system for creating high resolution stereo datasets of static indoor scenes with highly accurate ground-truth disparities.
 
 # Pipeline
@@ -16,7 +16,7 @@ Pipeline for Stereo Vision
 8. Generate a depth image representing the spatial dimensions of the scene
 
 
-# RESULTS
+# Results
 
 Traproom Disparity (Grayscale)          |  Traproom Depth (Heatmap)
 :-------------------------:|:-------------------------:
