@@ -16,7 +16,7 @@ Pipeline for Stereo Vision
 8. Generate a depth image representing the spatial dimensions of the scene
 
 
-#Results
+# RESULTS
 
 Traproom Disparity (Grayscale)          |  Traproom Depth (Heatmap)
 :-------------------------:|:-------------------------:
